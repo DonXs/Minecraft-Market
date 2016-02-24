@@ -3,6 +3,7 @@
     
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.donxs</groupId>
+    <name>Minecraft-Market</name>
     <artifactId>Minecraft-Market</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
@@ -106,5 +107,4 @@
             
         </plugins>
     </build>
-    <name>Kukielka-Minecraft-Market</name>
 </project>
